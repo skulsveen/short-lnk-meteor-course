@@ -1,5 +1,6 @@
-Short Lnk
+# Short Lnk
 
 This is a shotlink application by
 
-Sebberull! 
+## Authors
+Sebberull!
